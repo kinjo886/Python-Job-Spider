@@ -20,7 +20,9 @@
 
 | 经验要求分布 (Pie/Line) | 学历要求分布 (Bar) |
 | :---: | :---: |
-| ![经验分布](https://via.placeholder.com/400x300?text=Experience+Chart) | ![学历分布](https://via.placeholder.com/400x300?text=Education+Chart) |
+| ![经验分布](<img width="962" height="535" alt="image" src="https://github.com/user-attachments/assets/475f8c13-ad1e-473c-8a62-de2cd2e0bd24" />
+) | ![学历分布](<img width="959" height="533" alt="image" src="https://github.com/user-attachments/assets/1cfc945c-ccbc-4bb9-be18-dae146936d7e" />
+) |
 
 ## ✨ 核心功能
 
