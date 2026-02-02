@@ -21,7 +21,7 @@
 | 经验要求分布 (Pie/Line) | 学历要求分布 (Bar) |
 | :---: | :---: |
 |<img width="962" height="535" alt="image" src="https://github.com/user-attachments/assets/475f8c13-ad1e-473c-8a62-de2cd2e0bd24" />|
-<img width="959" height="533" alt="image" src="https://github.com/user-attachments/assets/1cfc945c-ccbc-4bb9-be18-dae146936d7e" />|
+|<img width="959" height="533" alt="image" src="https://github.com/user-attachments/assets/1cfc945c-ccbc-4bb9-be18-dae146936d7e" />|
 
 ## ✨ 核心功能
 
